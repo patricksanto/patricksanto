@@ -1,9 +1,9 @@
 ### Heey, I'm Patrick Santos 👋
 
-- 🔭 I'm FullStack developer ...
-- 🌱 Currently working with Rails, Javsdcript, and learning React ...
-- 📫 You can contact me by: patrick.sg.santos
-- 😄 Pronouns: ele / dele
+- 🔭 I'm Ruby on Rails developer ...
+- 🌱 Passionate about this framework ...
+- 📫 You can contact me by: patrick.sg.santos@gmail.com
+- 😄 Pronouns: he / him
 </br>
 
 
